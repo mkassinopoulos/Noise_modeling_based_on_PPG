@@ -1,9 +1,9 @@
 
-Michalis Kassinopoulos, PhD candidate
+Michalis Kassinopoulos, PhD
 Graduate Program in Biological and Biomedical Engineering, McGill University, Montreal, Canada
 mkassinopoulos@gmail.com
 
-Date: 21-April-2020
+Date: 06-January-2021
 
 ==================================================================
 
@@ -20,6 +20,7 @@ The User guide will be available shortly and will explain what each script is re
 
 Please do not hesitate to contact me if you have any questions related to the use of these scripts.
 
+====================================================================
+License
 
-
-
+The scripts in this repository are licensed under the Apache License, Version 2.0. See LICENSE.md for the full license text.
