@@ -15,8 +15,6 @@ Abstract: The blood oxygenation level-dependent (BOLD) contrast mechanism allows
 
 ====================================================================
 
-The User guide will be available shortly and will explain what each script is related to and how to reproduce some of the results presented in the study.
-
 Please do not hesitate to contact me if you have any questions related to the use of these scripts.
 
 ====================================================================
